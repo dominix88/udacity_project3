@@ -1,0 +1,4 @@
+Link to Map used in Project:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/winterthur_switzerland.osm.bz2
+
+This is the OpenStreetMap data for Winterhtur, Switzerland. This is a city close to the place I live. It has around 100,000 inhabitants. 
